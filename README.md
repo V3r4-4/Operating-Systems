@@ -18,12 +18,15 @@ Hello there👋. As a complete beginner to operating systems, I chose learn whil
 * Creation of Toy OS
 <br>
 <br>
+
 #### Tool and resources:
 * Class notes and powerpoint
 * Visual Code Editor
 * Git and GitHub
 <br>
 <br>
+
 #### Disclaimer!!
+
 <br>
 Work in Progress
