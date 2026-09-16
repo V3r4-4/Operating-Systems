@@ -1,6 +1,6 @@
 # Operating Systems
 <br>
-Hello there👋. As a complete beginner to operating systems, I chose learn while recording everything I learn to track progress. This repository is a good start for beginners. 
+Hello there👋. As a complete beginner to operating systems, I chose to learn while recording everything to track progress. This repository is a good start for beginners. 
 <br>
 <br>
 
