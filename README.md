@@ -20,13 +20,12 @@ Hello there👋. As a complete beginner to operating systems, I chose to learn w
 <br>
 
 #### Tool and resources:
-* Class notes and powerpoint
+* Class notes 
 * Visual Code Editor
 * Git and GitHub
 <br>
 <br>
 
-#### Disclaimer!!
-
+### Disclaimer!!
 <br>
 Work in Progress
